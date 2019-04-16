@@ -32,7 +32,7 @@
 
 # IPS Toasted
 
-#### A Toastr notification plug in for IPS 4.4+
+#### An advanced Toastr notification plug in for IPS 4.4+
 
 ## Features
 
