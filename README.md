@@ -44,8 +44,9 @@
 
 ## ** Updated Notes **
 
-04/15/19
+04/22/19
 
+- May 2019 Release
 - Initial Development Stage
 - Please report and issues, feature requests, or suggestions in Issues
 
